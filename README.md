@@ -3,7 +3,7 @@
 Aquí podrás encontrar todo el material del curso.
 ***
 
-Para instalar todos los paquetes que usaremos a lo largo del curso, copien y luego corran la siguiente serie de comandos en la consola de RStudio:
+Para instalar todos los paquetes que usaremos a lo largo del taller, copien y luego corran la siguiente serie de comandos en la consola de RStudio:
 
 ```
 # Función para instalar paquetes y cargarlos

@@ -31,7 +31,7 @@ ipak(packages)
 https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf
 * R para principiantes: https://cran.r-project.org/doc/contrib/rdebuts_es.pdf
 
-#### Información complementaria?
+#### Información complementaria
 * ¿Por qué es importante aprender a programar? https://www.nature.com/naturejobs/2017/170126/pdf/nj7638-563a.pdf
 * ¿Por qué es importante aprender a programar en R? 
 https://www.nature.com/polopoly_fs/1.16609!/menu/main/topColumns/topLeftColumn/pdf/517109a.pdf
@@ -44,4 +44,4 @@ https://www.nature.com/polopoly_fs/1.16609!/menu/main/topColumns/topLeftColumn/p
 
 **Contacto:**
 
-Ramses: drvazque@gmail.com; Josué: rjmdzar@gmail.com
+Ramses: rvazquez@inee.edu.mx; Josué: rjmdzar@gmail.com

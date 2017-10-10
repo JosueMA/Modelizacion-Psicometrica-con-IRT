@@ -26,7 +26,7 @@ ipak(packages)
 
 * Descargar R: https://cran.r-project.org
 * Descargar RStudio: https://www.rstudio.com/products/rstudio/download/
-* Tidyverse: http://tidyverse.org
+* R para principiantes: https://cran.r-project.org/doc/contrib/rdebuts_es.pdf
 
 
 **Contacto:**

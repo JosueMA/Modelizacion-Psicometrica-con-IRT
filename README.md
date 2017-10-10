@@ -38,9 +38,9 @@ https://www.nature.com/polopoly_fs/1.16609!/menu/main/topColumns/topLeftColumn/p
 
 ### Bibliografía básica
 
-Baker, F. B., & Kim, S. H. (2017). *The Basics of Item Response Theory Using R*.
-Martínez Arias, M. R., Hernández-Lloreda, M. J., & Hernández-Lloreda, M. V. (2006). *Psicometría*. Madrid: Alianza Editorial.
-Matloff, N. (2011). *The art of R programming: A tour of statistical software design*. No Starch Press.
+- Baker, F. B., & Kim, S. H. (2017). *The Basics of Item Response Theory Using R*.
+- Martínez Arias, M. R., Hernández-Lloreda, M. J., & Hernández-Lloreda, M. V. (2006). *Psicometría*. Madrid: Alianza Editorial.
+- Matloff, N. (2011). *The art of R programming: A tour of statistical software design*. No Starch Press.
 
 **Contacto:**
 

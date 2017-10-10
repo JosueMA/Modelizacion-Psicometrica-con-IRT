@@ -14,8 +14,8 @@ ipak <- function(pkg){
 }
 
 # Paquetes con los cuales usar la función
-packages <- c("tidyverse", "psych", "TAM", "ltm", "psychometric", "foreign", "statisticalModeling", "plotly", "ggthemes", 
-"markdown", "rmarkdown", "shiny", "learnr", "QuantPsyc", "datasauRus", "caret")
+packages <- c("tidyverse", "psych", "TAM", "ltm", "psychometric", "foreign", "statisticalModeling", 
+"plotly", "ggthemes", "markdown", "rmarkdown", "shiny", "learnr", "QuantPsyc", "datasauRus", "caret")
 
 # Uso de la función
 ipak(packages)

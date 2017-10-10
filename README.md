@@ -26,6 +26,8 @@ ipak(packages)
 
 * Descargar R: https://cran.r-project.org
 * Descargar RStudio: https://www.rstudio.com/products/rstudio/download/
+* Extensión para descargar archivos individuales de Github (sólo funciona para Google Chrome:
+https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf
 * R para principiantes: https://cran.r-project.org/doc/contrib/rdebuts_es.pdf
 
 

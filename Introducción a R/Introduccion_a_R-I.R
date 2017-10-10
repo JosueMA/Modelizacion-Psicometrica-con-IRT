@@ -358,6 +358,9 @@ A %*% B # Para las operaciones matriciales es necesario encerrar el operador ent
 # debe ser rectangular (todas las columnas de la misma longitud)
 # Es la manera más usada para almacenar datos
 
+# Instala el paquete MASS
+install.packages("MASS")
+
 # Carga el paquete MASS
 library(MASS)
 

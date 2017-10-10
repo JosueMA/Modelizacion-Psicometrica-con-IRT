@@ -31,6 +31,16 @@ ipak(packages)
 https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf
 * R para principiantes: https://cran.r-project.org/doc/contrib/rdebuts_es.pdf
 
+#### Información complementaria?
+* ¿Por qué es importante aprender a programar? https://www.nature.com/naturejobs/2017/170126/pdf/nj7638-563a.pdf
+* ¿Por qué es importante aprender a programar en R? 
+https://www.nature.com/polopoly_fs/1.16609!/menu/main/topColumns/topLeftColumn/pdf/517109a.pdf
+
+### Bibliografía básica
+
+Baker, F. B., & Kim, S. H. (2017). *The Basics of Item Response Theory Using R*.
+Martínez Arias, M. R., Hernández-Lloreda, M. J., & Hernández-Lloreda, M. V. (2006). *Psicometría*. Madrid: Alianza Editorial.
+Matloff, N. (2011). *The art of R programming: A tour of statistical software design*. No Starch Press.
 
 **Contacto:**
 

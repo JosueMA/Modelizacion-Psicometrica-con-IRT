@@ -1,6 +1,6 @@
 # Modelamiento Psicométrico con IRT
 
-Aquí podrás encontrar todo el material del curso.
+Aquí podrás encontrar todo el material del taller.
 ***
 
 Para instalar todos los paquetes que usaremos a lo largo del taller, copien y luego corran la siguiente serie de comandos en la consola de RStudio:

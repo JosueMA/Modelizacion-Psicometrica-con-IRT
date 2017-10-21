@@ -1,0 +1,1 @@
+Scripts hechos por Dr. Ramsés Vázquez Lira, basados en el libro *The Basics of Item Response Theory Using R*.

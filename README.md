@@ -25,11 +25,18 @@ ipak(paquetes)
 
 #### Links útiles
 
+**R**
 * Descargar R: https://cran.r-project.org
 * Descargar RStudio: https://www.rstudio.com/products/rstudio/download/
 * Extensión para descargar archivos individuales de Github (sólo funciona en Google Chrome):
 https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf
 * R para principiantes: https://cran.r-project.org/doc/contrib/rdebuts_es.pdf
+
+**Bases de Datos**
+* SIRE: http://www.inee.edu.mx/index.php/sire
+* IEA: http://www.iea.nl/data
+* PISA (2015): http://pisadataexplorer.oecd.org/ide/idepisa/
+
 
 #### Información complementaria
 * ¿Por qué es importante aprender a programar? https://www.nature.com/naturejobs/2017/170126/pdf/nj7638-563a.pdf

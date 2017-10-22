@@ -23,7 +23,7 @@ ipak(paquetes)
 
 
 
-#### Links útiles
+### Links útiles
 
 **R**
 * Descargar R: https://cran.r-project.org
@@ -38,7 +38,7 @@ https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkb
 * PISA (2015): http://pisadataexplorer.oecd.org/ide/idepisa/
 
 
-#### Información complementaria
+### Información complementaria
 * ¿Por qué es importante aprender a programar? https://www.nature.com/naturejobs/2017/170126/pdf/nj7638-563a.pdf
 * ¿Por qué es importante aprender a programar en R? 
 https://www.nature.com/polopoly_fs/1.16609!/menu/main/topColumns/topLeftColumn/pdf/517109a.pdf

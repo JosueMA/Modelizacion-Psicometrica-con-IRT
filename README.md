@@ -51,4 +51,4 @@ https://www.nature.com/polopoly_fs/1.16609!/menu/main/topColumns/topLeftColumn/p
 
 **Contacto:**
 
-Ramses: rvazquez@inee.edu.mx; Josué: rjmdzar@gmail.com
+Ramsés: rvazquez@inee.edu.mx; Josué: rjmdzar@gmail.com

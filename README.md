@@ -41,8 +41,7 @@ https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkb
 * Resumen con lista de recursos interesantes: https://www.mailman.columbia.edu/research/population-health-methods/item-response-theory
 * Aplicaciones Web hechas con R (Shiny):
     - http://kylehamilton.net/shiny/IRTShiny/
-    
-    - https://shiny.cs.cas.cz/ShinyItemAnalysis/   Considero que esta es la más completa.
+    - https://shiny.cs.cas.cz/ShinyItemAnalysis/
 
 
 ### Información complementaria

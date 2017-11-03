@@ -33,9 +33,13 @@ https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkb
 * R para principiantes: https://cran.r-project.org/doc/contrib/rdebuts_es.pdf
 
 **Bases de Datos**
+* TIMSS: http://www.timss.org/
+* PIRLS: http://www.pirls.org/
+* ICCS: http://iccs.acer.edu.au/
 * SIRE: http://www.inee.edu.mx/index.php/sire
 * IEA: http://www.iea.nl/data
 * PISA (2015): http://pisadataexplorer.oecd.org/ide/idepisa/
+* Journal Large-scale Assessments in Education: http://www.largescaleassessmentsineducation.com
 
 
 ### Información complementaria

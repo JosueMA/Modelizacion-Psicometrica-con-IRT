@@ -41,6 +41,10 @@ https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkb
 * PISA (2015): http://pisadataexplorer.oecd.org/ide/idepisa/
 * Journal Large-scale Assessments in Education: http://www.largescaleassessmentsineducation.com
 
+**Software para análisis**
+* IDB (SPSS): http://www.iea.nl/data
+* `intsvy` (R): http://oucea.education.ox.ac.uk/research/recent-research-projects/r-package/
+
 **IRT**
 * Resumen con lista de recursos interesantes: https://www.mailman.columbia.edu/research/population-health-methods/item-response-theory
 * Aplicaciones Web hechas con R (Shiny):

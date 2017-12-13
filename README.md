@@ -1,4 +1,4 @@
-# Modelamiento Psicométrico con IRT
+# Modelización Psicométrica con IRT
 
 Aquí podrás encontrar todo el material del taller.
 ***
